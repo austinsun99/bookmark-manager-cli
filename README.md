@@ -1,5 +1,7 @@
 ## Bookmanager-cli
 
+Here is a demo of the CLI: https://youtu.be/NPYVc8lPON8
+
 I made this quick project as my first experience with Go.  
 
 This CLI will allow you to add bookmarks, add bookmark folders, which is a collection of bookmarks.  
