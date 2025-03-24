@@ -1,6 +1,6 @@
 ## Bookmanager-cli
 
-Here is a demo of the CLI: https://youtu.be/NPYVc8lPON8
+Here is a demo of the CLI: [CLI DEMO](https://youtu.be/wISwRJ6rrTE)
 
 I made this quick project as my first experience with Go.  
 
